@@ -1,2 +1,2 @@
 # image-classification
-image classification
+image classification algorithms for studying
